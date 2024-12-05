@@ -1,4 +1,4 @@
-# Trabalho final CGR
+# Trabalho Final CGR
 
 O trabalho consiste no desenvolvimento de um jogo de avião com temática de WW1, feito com Pygame.
 
